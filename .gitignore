@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# real traces are not redistributed
+study2/data/
+*.zst
+*.oracleGeneral*
+
+# turnitin reports must not be published
+*turnitin*
+*Turnitin*
+
+# Nested extracted archive folder
+/page-cache-tenant-harm/

@@ -1,0 +1,6 @@
+# Check these against the versions you actually used, then pin them.
+libcachesim==0.3.5
+numpy
+scipy
+pandas
+matplotlib

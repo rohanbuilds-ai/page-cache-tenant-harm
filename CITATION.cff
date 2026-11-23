@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "The Aggregate Miss Ratio Can Hide Tenant Harm: Reviewing and Testing How Page-Cache Replacement Is Evaluated"
+authors:
+  - given-names: Dhanush
+    family-names: R
+  - given-names: Thrupthi
+    family-names: G D
+  - given-names: Rohan
+    family-names: K
+  - given-names: Rohan
+    family-names: S
+affiliation: "PES University, Bengaluru, India"
+date-released: 2026-11-23
+version: v1.0-final
+# doi: 10.5281/zenodo.XXXXXXX   # add after Zenodo deposit
+license: MIT
